@@ -1,0 +1,83 @@
+.btndesign{
+  width: 160px;
+}
+.logindesign{
+  display: flex;
+  background-color: #14213d;
+width: 360px;
+height: 600px;
+border: #14213d 3px solid;
+border-radius: 70px; 
+position: absolute;
+  left: 500px;
+}
+.logindesign2{
+  position: absolute;
+  top: 420px;
+  left: -210px;
+  height: 40px;
+  width: 140px;
+}
+.logindesign3{
+  position: absolute;
+  top: 540px;
+  left: -210px;
+  height: 40px;
+  width: 140px;
+}
+
+.inpstyle{
+  width: 300px;
+  background-color: white;
+  border: 3px white solid;
+  border-radius: 40px;
+  position: absolute;
+  left: 20px;
+}
+.navdiv{
+  
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.stylingLinks{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  text-decoration: none;
+  color: #14213d;
+  border: 3px #e5e5e5 solid;
+  padding-left: 30px;
+  padding-right: 30px;
+    border-radius: 30px;
+}
+.stylingLinks:hover{
+  
+  background-color: #fca311;
+}
+
+body{
+  background-color: #e5e5e5;
+}
+
+.h1{
+  display: flex;
+  font-family: cursive;
+  color: #14213d;
+  font-size: 50px;
+  justify-content: center;
+}
+
+.P{
+  display: flex;justify-content: center;
+  font-family: cursive;
+  color: #00b4d8;
+  font-size: 30px;
+}
+.img{
+  width: 200px;
+  position: absolute;
+  left: 70px;
+  border-radius: 500px;
+  display: flex;
+  justify-content: center;
+}
